@@ -1,3 +1,4 @@
-org\example\service\IOrderService.class
 org\example\RpcRequest.class
 org\example\App.class
+org\example\service\IOrderService.class
+org\example\service\IProductService.class

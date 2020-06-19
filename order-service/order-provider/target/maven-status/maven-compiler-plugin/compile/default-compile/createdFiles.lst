@@ -1,1 +1,12 @@
+org\example\v2\proxy\server\SocketServerInitial.class
+org\example\v2\annotation\WjhRemoteService.class
+org\example\v1\proxy\server\RpcProxyServer.class
+org\example\v1\service\impl\OrderServiceImpl.class
+org\example\v2\Merdiator\BeanMethod.class
+org\example\v2\service\impl\ProductServiceImpl.class
 org\example\App.class
+org\example\v1\handler\ProcessorHandler.class
+org\example\v2\Merdiator\InitialMerdiator.class
+org\example\v2\handler\ProcessorHandler.class
+org\example\v2\Merdiator\Merdiator.class
+org\example\v2\service\impl\OrderServiceImpl.class
